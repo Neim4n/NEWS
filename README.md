@@ -3,8 +3,8 @@ The news site was created for viewing news, comparing and analyzing exchange rat
 ## How to use
 You can use it to your advantage only on your localhost due to the cross-origin resource sharing (CORS) of the API used.  
 >API used:
->- https://newsapi.org/
->- https://exchangeratesapi.io/
+>- https://gnews.io/
+>- https://github.com/fawazahmed0/currency-api
 
 ### News API:
  <p align="center"> 
