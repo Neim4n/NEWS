@@ -1,16 +1,34 @@
-# News-Site
-The news site was created for viewing news, comparing and analyzing exchange rates, and more...
-## How to use
-You can use it to your advantage only on your localhost due to the cross-origin resource sharing (CORS) of the API used.  
->API used:
->- https://newsapi.org/
->- https://exchangeratesapi.io/
 
-### News API:
- <p align="center"> 
-    <img src="https://github.com/Neim4n/Readme-Files/blob/main/News-Site-Newsapi.gif" alt="Adaptive">
- </p>
- <hr>
+# News-Site
+
+News Site - React js app, that  gives you the ability to view the latest news on different topics in different countries and languages.It is also possible to receive news at your own request.
+
+The site also has several useful components, such as a currency widget and a recommendation widget.
+
+
+
+## Features
+
+- Internationalization
+- Adaptive & Responsive design
+- Relevance of received news
+- Сurrency convertor
+
+
+## API
+
+These APIs help me make my site more flexible and easier to use. With the help of these APIs, I was able to get up-to-date information about currencies and the situation in the world.
+
+- [Currency-Api](https://github.com/fawazahmed0/currency-api#readme)
+- [GNews](https://gnews.io/)
+
+
+
+## How it works
+
+![App Screenshot](https://github.com/Neim4n/Readme-Files/blob/main/News-Site-Newsapi.gif)
+
+
  
 ### Exchange API:
 
