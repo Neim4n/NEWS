@@ -26,4 +26,4 @@ These APIs help me make my site more flexible and easier to use. With the help o
 
 ## How it works
 
-![App Screenshot](https://github.com/Neim4n/Readme-Files/blob/main/News-Site-Newsapi.gif)
+![App Screenshot](https://github.com/Neim4n/Readme-Files/blob/main/News-Site/News-Site_demo.gif)
