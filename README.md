@@ -21,9 +21,3 @@ These APIs help me make my site more flexible and easier to use. With the help o
 
 - [Currency-Api](https://github.com/fawazahmed0/currency-api#readme)
 - [GNews](https://gnews.io/)
-
-
-
-## How it works
-
-![App Screenshot](https://github.com/Neim4n/Readme-Files/blob/main/News-Site/News-Site_demo.gif)
