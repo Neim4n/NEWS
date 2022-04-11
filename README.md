@@ -27,22 +27,3 @@ These APIs help me make my site more flexible and easier to use. With the help o
 ## How it works
 
 ![App Screenshot](https://github.com/Neim4n/Readme-Files/blob/main/News-Site-Newsapi.gif)
-
-
- 
-### Exchange API:
-
-
- <p align="center"> 
-    <img src="https://github.com/Neim4n/Readme-Files/blob/main/News-Site-ExchangeAPI.gif" alt="Adaptive">
- </p>
- 
- <hr>
- 
-## Adaptive
-The site is fully adaptive for different resolutions:  
-- 💻 desktop device;  
-- 📱 mobile device.  
- <p align="center"> 
-    <img src="https://github.com/Neim4n/Readme-Files/blob/main/News-Site-Adaptivewebm.gif" alt="Adaptive">
- </p>
