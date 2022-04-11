@@ -1,0 +1,32 @@
+{
+  "header": {
+    "load-default": "Новини",
+    "input-placeholder": "Введіть запит"
+  },
+  "category_menu": {
+    "breaking-news": "екстрене",
+    "general": "загальне",
+    "business": "бізнес",
+    "entertainment": "розваги",
+    "health": "здоров'я",
+    "science": "наука",
+    "sports": "спорт",
+    "technology": "технології"
+  },
+  "currency-widget": {
+    "currency": "Валюта",
+    "price": "Ціна"
+  },
+  "recommendation-widget": {
+    "title": "Рекомендації"
+  },
+  "footer": {
+    "resources": "Ресурси",
+    "contacts": "Контакти"
+  },
+  "messages": {
+    "error-message": "Ой, щось пішло не так...<1/>Повторіть спробу пізніше!",
+    "empty-message": "На ваш запит нічого не знайдено.",
+    "page-message": "Сторінка не знайдена."
+  }
+}

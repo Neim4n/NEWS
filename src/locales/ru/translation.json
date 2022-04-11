@@ -1,0 +1,32 @@
+{
+  "header": {
+    "load-default": "Новости",
+    "input-placeholder": "Введите запрос"
+  },
+  "category_menu": {
+    "breaking-news": "екстренное",
+    "general": "общее",
+    "business": "бизнес",
+    "entertainment": "развлечение",
+    "health": "здоровье",
+    "science": "наука",
+    "sports": "спорт",
+    "technology": "технологии"
+  },
+  "currency-widget": {
+    "currency": "Валюта",
+    "price": "Цена"
+  },
+  "recommendation-widget": {
+    "title": "Рекомендации"
+  },
+  "footer": {
+    "resources": "Ресурсы",
+    "contacts": "Контакты"
+  },
+  "messages": {
+    "error-message": "Ой, что-то пошло не так...<1/>Повторите попытку позже!",
+    "empty-message": "По вашему запросу нечего не найдено.",
+    "page-message": "Страница не найдена."
+  }
+}

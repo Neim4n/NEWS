@@ -1,0 +1,9 @@
+export const CHOOSE_COUNTRY = 'CHOOSE_COUNTRY';
+export const CHOOSE_CATEGORY = 'CHOOSE_CATEGORY';
+export const INPUT_QUERY = 'INPUT_QUERY';
+export const LOAD_NEWS = 'LOAD_NEWS';
+
+export const LOAD_DISPLAY_ON = 'LOAD_DISPLAY_ON';
+export const LOAD_DISPLAY_OFF = 'LOAD_DISPLAY_OFF';
+
+export const LOAD_CURRENCY_RATES = 'LOAD_CURRENCY_RATES';

@@ -1,0 +1,32 @@
+{
+  "header": {
+    "load-default": "News",
+    "input-placeholder": "Enter a request"
+  },
+  "category_menu": {
+    "breaking-news": "breaking",
+    "general": "general",
+    "business": "business",
+    "entertainment": "entertainment",
+    "health": "health",
+    "science": "science",
+    "sports": "sports",
+    "technology": "technology"
+  },
+  "currency-widget": {
+    "currency": "Currency",
+    "price": "Price"
+  },
+  "recommendation-widget": {
+    "title": "Recommendation"
+  },
+  "footer": {
+    "resources": "Resources",
+    "contacts": "Contacts"
+  },
+  "messages": {
+    "error-message": "Oops, something went wrong...<1/>Please try again later!",
+    "empty-message": "Nothing was found according to your request.",
+    "page-message": "Page not found."
+  }
+}
