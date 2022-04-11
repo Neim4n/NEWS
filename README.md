@@ -9,9 +9,15 @@ The site also has several useful components, such as a currency widget and a rec
 
 ## Table of Contents
 
-- Skills
+- [Techonologies](#Techonologies)
 - [Features](#Features)
-- Demo
+- [Demo](#Demo)
+## Techonologies
+
+- ReactJs
+- HTML
+- CSS / SCSS
+- Git
 ## Features
 
 - Relevance of received news
@@ -21,28 +27,27 @@ The site also has several useful components, such as a currency widget and a rec
 
 
 
-    ### API
+ #### API
 
-    These APIs help me make my site more flexible and easier to use. With the help of these APIs, I was able to get up-to-date information about currencies and the situation in the world.
+ These APIs help me make my site more flexible and easier to use. With the help of these APIs, I was able to get up-to-date information about currencies and the situation in the world.
 
-    - [Currency-Api](https://github.com/fawazahmed0/currency-api#readme)
-    - [GNews](https://gnews.io/)
+- [Currency-Api](https://github.com/fawazahmed0/currency-api#readme)
+ - [GNews](https://gnews.io/)
 
 
+#### Internationalization
 
-    ### Internationalization
+[i18next](https://www.i18next.com/) was used to internationalize a News Site.
 
-    [i18next](https://www.i18next.com/) was used to internationalize a News Site.
+I18next is an internationalization-framework written in and for JavaScript.
+#### Adaptive & Responsive design
 
-    I18next is an internationalization-framework written in and for JavaScript.
-    ### Adaptive & Responsive design
+To make a responsive and adaptive design for my project, was used technologies such as:
 
-    To make a responsive and adaptive design for my project, was used technologies such as:
+- Flexbox
+- Grid Layout
 
-    - Flexbox
-    - Grid Layout
-
-    For comfortable writing component styles, was used a preprocessor SCSS.
+For comfortable writing component styles, was used a preprocessor SCSS.
 ## Demo
 To see what it looks like in your own browser
 ➡ [Click](https://neim4n.github.io/News-Site/)
