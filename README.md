@@ -27,12 +27,12 @@ The site also has several useful components, such as a currency widget and a rec
 
 
 
- #### API
+#### API
 
- These APIs help me make my site more flexible and easier to use. With the help of these APIs, I was able to get up-to-date information about currencies and the situation in the world.
+These APIs help me make my site more flexible and easier to use. With the help of these APIs, I was able to get up-to-date information about currencies and the situation in the world.
 
 - [Currency-Api](https://github.com/fawazahmed0/currency-api#readme)
- - [GNews](https://gnews.io/)
+- [GNews](https://gnews.io/)
 
 
 #### Internationalization
